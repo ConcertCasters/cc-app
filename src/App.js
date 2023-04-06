@@ -295,7 +295,7 @@ export default function App() {
         aspectRatio: "16-9",
         theme: process.env.REACT_APP_THEME,
         color: process.env.REACT_APP_COLOR,
-        logo: "https://portl.live/img/brand/logo.png",
+        logo: "https://portlmediacloud.sfo3.digitaloceanspaces.com/2023/04/concert_caster_logo_white150x150_360.png",
 
         font: process.env.REACT_APP_FONT,
         headerPresent: process.env.REACT_APP_HEADER_PRESENT,
